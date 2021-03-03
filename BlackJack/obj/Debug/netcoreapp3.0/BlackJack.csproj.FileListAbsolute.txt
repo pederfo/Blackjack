@@ -1,0 +1,13 @@
+C:\Users\Perito\Documents\Dev\Repos\BlackJack\csharp\BlackJack\bin\Debug\netcoreapp3.0\BlackJack.exe
+C:\Users\Perito\Documents\Dev\Repos\BlackJack\csharp\BlackJack\bin\Debug\netcoreapp3.0\BlackJack.deps.json
+C:\Users\Perito\Documents\Dev\Repos\BlackJack\csharp\BlackJack\bin\Debug\netcoreapp3.0\BlackJack.runtimeconfig.json
+C:\Users\Perito\Documents\Dev\Repos\BlackJack\csharp\BlackJack\bin\Debug\netcoreapp3.0\BlackJack.runtimeconfig.dev.json
+C:\Users\Perito\Documents\Dev\Repos\BlackJack\csharp\BlackJack\bin\Debug\netcoreapp3.0\BlackJack.dll
+C:\Users\Perito\Documents\Dev\Repos\BlackJack\csharp\BlackJack\bin\Debug\netcoreapp3.0\BlackJack.pdb
+C:\Users\Perito\Documents\Dev\Repos\BlackJack\csharp\BlackJack\obj\Debug\netcoreapp3.0\BlackJack.csprojAssemblyReference.cache
+C:\Users\Perito\Documents\Dev\Repos\BlackJack\csharp\BlackJack\obj\Debug\netcoreapp3.0\BlackJack.AssemblyInfoInputs.cache
+C:\Users\Perito\Documents\Dev\Repos\BlackJack\csharp\BlackJack\obj\Debug\netcoreapp3.0\BlackJack.AssemblyInfo.cs
+C:\Users\Perito\Documents\Dev\Repos\BlackJack\csharp\BlackJack\obj\Debug\netcoreapp3.0\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\Perito\Documents\Dev\Repos\BlackJack\csharp\BlackJack\obj\Debug\netcoreapp3.0\BlackJack.dll
+C:\Users\Perito\Documents\Dev\Repos\BlackJack\csharp\BlackJack\obj\Debug\netcoreapp3.0\BlackJack.pdb
+C:\Users\Perito\Documents\Dev\Repos\BlackJack\csharp\BlackJack\obj\Debug\netcoreapp3.0\BlackJack.genruntimeconfig.cache
